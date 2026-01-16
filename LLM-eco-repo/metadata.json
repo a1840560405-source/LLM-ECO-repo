@@ -1,0 +1,9 @@
+{
+  "title": "从工具到范式：大语言模型与计量经济学的融合演进",
+  "subtitle": "基于异构计算架构的方法论革新与因果推断边界拓展",
+  "authors": ["钟廷杰"],
+  "date": "2026-01-16",
+  "keywords": ["LLM", "计量经济学", "RAG", "KAG", "异构计算", "因果推断", "EPU", "咨询"],
+  "license": "MIT",
+  "repo_url": "https://github.com/a1840560405-source/LLM-ECO-repo"
+}
